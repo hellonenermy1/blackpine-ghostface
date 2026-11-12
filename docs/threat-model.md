@@ -1,0 +1,2 @@
+# Threat model
+Goal: reduce unauthorized reuse of consenting users' own portraits for synthetic media. No guarantee of anonymity, recognition avoidance, protection against future systems, manual copying or misuse of unprotected originals. Evaluate categories separately. Use authorized synthetic or consenting adult fixtures only; no private photos or facial identifiers in Git. No face recognition evasion claim. No claims about group photographs without separate validation. Image fidelity is not evidence of protection.
