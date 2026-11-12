@@ -1,0 +1,2 @@
+# Performance requirements
+Warm processing deadline: 60 seconds, including decoding, validation, processing, quality check and encoding. Cold start measured separately and disclosed. Input limit: 15,000,000 bytes; provisional decoded pixel limit: 24 million. One active job. Timeout must not export an incomplete result as successful. Six levels remain unvalidated; do not claim monotonically increasing efficacy or any runtime until measured. Test mobile and Chromebook devices, not only workstations.
