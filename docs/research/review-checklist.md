@@ -1,0 +1,2 @@
+# Independent literature review checklist
+Record reviewer, date, source version, publication venue, conflicts of interest, scope, limitations, and whether evidence is author-reported or independently reproduced. Verify that quoted claims match the source. Do not infer product efficacy from a paper's title or abstract. Record contradictory evidence and missing information. A reviewer must approve the evidence before any public product claim. No experiments are approved by this document.
