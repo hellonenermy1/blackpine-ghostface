@@ -1,0 +1,2 @@
+# ADR 0001 — Foundation constraints
+Accepted: public repository per owner; isolated branch and review before merge; no backend or cloud image uploads; six provisional levels and Medium default; 15 MB cap; 60-second warm processing deadline. Provisional: 24 MP limit, name, hosting, engine selection, source license. No deployment or scientific claims authorized. No personal photos in public repository.
