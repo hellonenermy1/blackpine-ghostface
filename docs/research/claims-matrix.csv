@@ -1,0 +1,11 @@
+claim_id,claim,evidence_status,source,release_status
+C01,Single-photo cloning protection,author_reported,CVPR2025_IDProtector,blocked
+C02,Face swapping protection,author_reported,ICCV2025_FaceShield,blocked
+C03,Image editing protection,author_reported,PhotoGuard2023_and_ICCV2025_DCTShield,blocked
+C04,Personalized training protection,conflicting_evidence,ICCV2023_AntiDreamBooth_and_AAAI2026_FragileByDesign,blocked
+C05,Six distinct ordered levels,not_established,none,blocked
+C06,60-second browser processing,not_established,none,blocked
+C07,Instagram resilience,not_established,none,blocked
+C08,ChatGPT-specific protection,not_established,none,blocked
+C09,Combined methods improve protection,not_established,none,blocked
+C10,Invisible changes for all viewers,not_established,none,blocked
