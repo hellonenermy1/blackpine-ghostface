@@ -1,0 +1,48 @@
+{
+  "version": "1.1",
+  "max_input_bytes": 15000000,
+  "provisional_max_pixels": 24000000,
+  "warm_deadline_seconds": 60,
+  "default_level": "Medium",
+  "levels": [
+    {
+      "name": "Low",
+      "warning": false,
+      "confirmation": false,
+      "validated": false
+    },
+    {
+      "name": "Low-Medium",
+      "warning": false,
+      "confirmation": false,
+      "validated": false
+    },
+    {
+      "name": "Medium",
+      "warning": false,
+      "confirmation": false,
+      "validated": false
+    },
+    {
+      "name": "Medium-High",
+      "warning": true,
+      "confirmation": false,
+      "validated": false
+    },
+    {
+      "name": "High",
+      "warning": true,
+      "confirmation": false,
+      "validated": false
+    },
+    {
+      "name": "Maximum",
+      "warning": true,
+      "confirmation": true,
+      "validated": false
+    }
+  ],
+  "production_ready": false,
+  "backend": false,
+  "photo_uploads": false
+}
