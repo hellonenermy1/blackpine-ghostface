@@ -1,0 +1,4 @@
+# Phase 1 handoff
+Public repository explicitly approved by owner. Work on phase1/foundation; main unchanged until review. Specification V1.1: 15,000,000 bytes, provisional 24 MP, 60s warm deadline, six provisional levels, Medium default, warnings from Medium-High, Maximum confirmation. All levels unvalidated. No backend or photo uploads. No deployment. Next: review licensing, provenance, research environment and independent evidence. No personal photos or third-party weights in Git. Do not mark efficacy verified based on configuration tests.
+
+Session 4: local Python image decoding, metadata-free PNG export and RGB fidelity metrics implemented. 17 local tests passed; previous six specification tests verified on GitHub. Install requirements-dev.txt. Browser implementation, dependency audit, ICC color handling, WebP regression and release review pending. No AI protection engine implemented.

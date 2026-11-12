@@ -1,0 +1,2 @@
+# Privacy design requirements
+Static site only; photographs and derived identifiers remain on device. No analytics, accounts, server-side image processing, database or paid API. Public assets may generate normal hosting requests; do not claim zero network metadata. No persistent image history. Clear session releases references, not guaranteed memory erasure. Verify by monitored network tests before release. No deployment currently exists.

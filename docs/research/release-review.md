@@ -1,0 +1,2 @@
+# Release review
+A release claiming anti-cloning protection is blocked until independent evidence, lawful redistribution rights, actual browser compatibility, visual fidelity and privacy review are established. A public research report may describe published findings with attribution and limitations, but must not imply a working GhostFace protection engine. No deployment is authorized. The existing Python utilities are research support only.
