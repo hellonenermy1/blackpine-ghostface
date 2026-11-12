@@ -1,0 +1,2 @@
+# Phase 1 handoff
+Public repository explicitly approved by owner. Work on phase1/foundation; main unchanged until review. Specification V1.1: 15,000,000 bytes, provisional 24 MP, 60s warm deadline, six provisional levels, Medium default, warnings from Medium-High, Maximum confirmation. All levels unvalidated. No backend or photo uploads. No deployment. Next: review licensing, provenance, research environment and independent evidence. No personal photos or third-party weights in Git. Do not mark efficacy verified based on configuration tests.
