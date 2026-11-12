@@ -1,0 +1,2 @@
+# Dataset policy
+Use only documented, authorized synthetic or consenting adult data. Do not commit image files, biometric identifiers, consent records or personal data. Record source, license, provenance, restrictions and review status before use. Keep development and final evaluation data separate. No dataset approved at present. Use non-personal generated test patterns for software correctness tests.
